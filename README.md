@@ -10,17 +10,4 @@ I use it as a personal archive to track my progress, improve problem-solving ski
 
 ---
 
-## 📂 Repository Structure
-leetcode_solutions/
-│
-├── arraysandhashing/
-│ ├── contains_duplicate.py
-│ ├── valid_anagram.py
-│ └── ...
-|
-├── twopointers/
-│ └── ...
-│
-└── README.md
-
-- Each file is named with the LeetCode problem title for easy reference.
+Each file is named with the LeetCode problem title for easy reference.
